@@ -6,5 +6,6 @@ At the time, hospitals and healthcare facilities implemented strict infection co
 # Prerequisite
 For this experiment, I will be using Azure Machine Leanring services. The instruction to provision one can be found on this link.
 https://azure.microsoft.com/en-us/resources/videos/provisioning-ml-workspaces-from-portal/
-![Provisioning Azure Machine Learning](link-to-image)
+
+
 
