@@ -26,6 +26,7 @@ Category 2 (Test-Priority)
 Category 3 (Healthcare services-Priority)
 
 # Use Case # 2
+![use case #2](Images/social.jpg)
 
 **Problem Statement:**
 Health resources are limited across the world. Increasing number of coronavirus patients threatens the ability of health organizations to take care of everyone
