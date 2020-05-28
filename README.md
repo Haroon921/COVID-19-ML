@@ -8,8 +8,7 @@ At the time, hospitals and healthcare facilities implemented strict infection co
 # Use Cases # 1
 
 
-![use case](Images/covid-19 testing.jpg)
-
+![use case](Images/covid-19 testing.JPG)
 
 
 **Problem Statement:**
