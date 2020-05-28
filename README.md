@@ -41,10 +41,10 @@ This method will help in flattening the curve which will delay the time until th
 The goal is to control the increasing infection with the virus. The light switch method applies certain intervention strategies (like social distancing) for a certain period of time and then stops applying them for another limited period of time. 
 
 # Data
-I will be using data from [Our world in Data which has the testing data](https://ourworldindata.org/coronavirus-testing) and [COVID-19 Data from John Hopkins](https://github.com/CSSEGISandData/COVID-19)
+I will be using data from [Our world in Data which has the testing data](https://ourworldindata.org/coronavirus-testing) and [COVID-19 Data from John Hopkins](https://github.com/CSSEGISandData/COVID-19).
 
 # Prerequisite
-For this experiment, I will be using Azure Machine Leanring services. The instruction to provision can be found [here](https://azure.microsoft.com/en-us/resources/videos/provisioning-ml-workspaces-from-portal/)
+For this experiment, I will be using Azure Machine Leanring services. The instruction to provision can be found [here](https://azure.microsoft.com/en-us/resources/videos/provisioning-ml-workspaces-from-portal/).
 
 
 
