@@ -42,14 +42,15 @@ The goal is to control the increasing infection with the virus. The light switch
 
 # Data
 There are many sources available, but, I will be using data from [Our world in Data which has the testing data](https://ourworldindata.org/coronavirus-testing) and [COVID-19 Data from John Hopkins](https://github.com/CSSEGISandData/COVID-19).
+
 Here is a list of other data sources:
-*Point 3 Acres
-Johns Hopkins CSSE
-The COVID Tracking Project
-Ding Xiang Yuan
-Worldometer, 
-WHO Coronavirus Disease (COVID-19)
-HDX Novel Coronavirus (COVID-19) Cases Data
+1) Point 3 Acres
+2) Johns Hopkins CSSE
+3) The COVID Tracking Project
+4) Ding Xiang Yuan
+5) Worldometer, 
+6) WHO Coronavirus Disease (COVID-19)
+7) HDX Novel Coronavirus (COVID-19) Cases Data
 
 # Prerequisite
 For this experiment, I will be using Azure Machine Learning services. The instruction to provision can be found [here](https://azure.microsoft.com/en-us/resources/videos/provisioning-ml-workspaces-from-portal/).
