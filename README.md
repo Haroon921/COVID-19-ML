@@ -1,5 +1,5 @@
 ![Covid-19](Images/covid-19.png)
-
+![use case](Images/testing.jpg)
 
 
 # Analyze COVID-19- Data using python notebook within Microsoft Azure Machine Learning.
