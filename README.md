@@ -18,6 +18,13 @@ Hypothesis is that we can helps in prioritizing the Testing also helps in determ
 **Impact:**
 Testing allows infected people to know that they are infected. This can help them receive the care they need, and it can help them take measures to reduce the probability of infecting others. People who don’t know they are infected might not stay at home and thereby risk infecting others.
 
+**Features:**
+1) Country wise Correlation (death, recovered, confirmed) for this as we discussed now (demographic wise Correlation gender, age, city ,nationality, occupation)
+2) COVID-19 Trend Comparison for Confirmed Cases between Saudi Arabia and the Top 10 Countries
+3) COVID-19 Forecasting for Saudi Arabia for confirmed cases 14 day in advance
+4) COVID-19 Forecasting for Saudi Arabia for death cases 14 day in advance
+
+
 **Approach:**
 Prioritize the testing using the Priority-based Automated Testing System
 Doing this let’s say we categorize the population into 3 categories as follows:
