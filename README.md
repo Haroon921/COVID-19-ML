@@ -5,10 +5,8 @@ At present, we face a unique challenge with the (COVID-19), (COVID-19) is an inf
 
 At the time, hospitals and healthcare facilities implemented strict infection control measures with increased intensity. So Microsoft needs to develop a new way to give their customer needed forecasting and reporting about this epidemic until we pass this situation safely. We can easily recognize how science and AI / Analytics can help to remediate and minimize the risk.
 
-![Covid-19 testing](Images/covid-19 testing.jpg)
-
 # Use Cases # 1
-
+![Covid-19 test](Images/covid-19 testing.jpg)
 
 **Problem Statement:**
 The capacity for COVID-19 testing is still low in many countries around the world. 
