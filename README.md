@@ -9,7 +9,7 @@ At the time, hospitals and healthcare facilities implemented strict infection co
 
 ![use case](Images/testing.jpg)
 
-**Problem Statement:**
+## Problem Statement:
 The capacity for COVID-19 testing is still low in many countries around the world. 
 
 **Hypothesis:**
