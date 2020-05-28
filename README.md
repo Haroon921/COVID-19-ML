@@ -8,13 +8,13 @@ At the time, hospitals and healthcare facilities implemented strict infection co
 **Problem Statement:**
 The capacity for COVID-19 testing is still low in many countries around the world. 
 
-2) Hypothesis:
+**Hypothesis:**
 Hypothesis is that we can helps in prioritizing the Testing also helps in determining the priority of giving limited healthcare services.
 
-3) Impact:
+**Impact:**
 Testing allows infected people to know that they are infected. This can help them receive the care they need, and it can help them take measures to reduce the probability of infecting others. People who don’t know they are infected might not stay at home and thereby risk infecting others.
 
-4) Approach:
+**Approach:**
 Prioritize the testing using the Priority-based Automated Testing System
 Doing this let’s say we categorize the population into 3 categories as follows:
 Category 1 (Self-Quarantined)
@@ -23,16 +23,16 @@ Category 3 (Healthcare services-Priority)
 
 # Use Case # 2
 
-1) Problem Statement:
+**Problem Statement:**
 Health resources are limited across the world. Increasing number of coronavirus patients threatens the ability of health organizations to take care of everyone
 
-2) Hypothesis:
+**Hypothesis:**
 Our hypothesis is that when we apply this method, the increase in the cases will be slow and controllable because the periods where the switch is off and social distancing is stopped are limited and followed by practicing social distancing again.
 
-3) Impact:
+**Impact:**
 This method will help in flattening the curve which will delay the time until the peaks. Therefore, it will buy time for health organizations to increase their resources
 
-4) Approach:
+**Approach:**
 The goal is to control the increasing infection with the virus. The light switch method applies certain intervention strategies (like social distancing) for a certain period of time and then stops applying them for another limited period of time. 
 
 # Data
