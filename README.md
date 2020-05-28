@@ -1,6 +1,4 @@
 ![Covid-19](Images/covid-19.png)
-![use case](Images/testing.jpg)
-
 
 # Analyze COVID-19- Data using python notebook within Microsoft Azure Machine Learning.
 At present, we face a unique challenge with the (COVID-19), (COVID-19) is an infectious disease caused by a newly discovered coronavirus. With no vaccine or cure, populations have been instructed to physically separate from each other in an attempt to stem the tide of infection, prompting massive social distancing measures and lockdowns that have sparked fear and uncertainty.
@@ -9,9 +7,7 @@ At the time, hospitals and healthcare facilities implemented strict infection co
 
 # Use Cases # 1
 
-
-
-
+![use case](Images/testing.jpg)
 
 **Problem Statement:**
 The capacity for COVID-19 testing is still low in many countries around the world. 
