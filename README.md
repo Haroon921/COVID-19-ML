@@ -5,7 +5,7 @@ At the time, hospitals and healthcare facilities implemented strict infection co
 
 # Use Cases # 1
 
-**Problem Statement:
+**Problem Statement:**
 The capacity for COVID-19 testing is still low in many countries around the world. 
 
 2) Hypothesis:
