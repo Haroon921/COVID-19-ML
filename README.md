@@ -1,5 +1,6 @@
 ![Covid-19](Images/covid-19.png)
 
+
 # Analyze COVID-19- Data using python notebook within Microsoft Azure Machine Learning.
 At present, we face a unique challenge with the (COVID-19), (COVID-19) is an infectious disease caused by a newly discovered coronavirus. With no vaccine or cure, populations have been instructed to physically separate from each other in an attempt to stem the tide of infection, prompting massive social distancing measures and lockdowns that have sparked fear and uncertainty.
 
@@ -23,6 +24,20 @@ Testing allows infected people to know that they are infected. This can help the
 2) COVID-19 Trend Comparison for Confirmed Cases between Saudi Arabia and the Top 10 Countries
 3) COVID-19 Forecasting for Saudi Arabia for confirmed cases 14 day in advance
 4) COVID-19 Forecasting for Saudi Arabia for death cases 14 day in advance
+
+![Saudi Arabia](Images/Continent.png)
+
+![Saudi Arabia](Images/KSA.png)
+
+![Saudi Arabia](Images/Mortality.png)
+
+![Saudi Arabia](Images/Trend.png)
+
+![analysis](Images/ROW.png)
+
+![Saudi Arabia](Images/deaths.png)
+
+
 
 
 **Approach:**
