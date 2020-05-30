@@ -22,8 +22,15 @@ Testing allows infected people to know that they are infected. This can help the
 **Features:**
 1) Country wise Correlation (death, recovered, confirmed) for this as we discussed now (demographic wise Correlation gender, age, city ,nationality, occupation)
 2) COVID-19 Trend Comparison for Confirmed Cases between Saudi Arabia and the Top 10 Countries
-3) COVID-19 Forecasting for Saudi Arabia for confirmed cases 14 day in advance
-4) COVID-19 Forecasting for Saudi Arabia for death cases 14 day in advance
+![Saudi Arabia](Images/Trend.png)
+3) COVID-19 Forecasting for Saudi Arabia for confirmed cases 14 days in advance. There are three Algorithms used (PLS, Vector Regressor, and Random Forest), but the Random forest regression algorithm performed well. I got a minimum mean absolute error and root mean squared error.
+![Saudi Arabia](Images/random.png)
+![Saudi Arabia](Images/cases.png)
+4) COVID-19 Forecasting for Saudi Arabia for death cases 14 days in advance.There are three Algorithms used (PLS, Vector Regressor, and Random Forest), but the Random forest regression algorithm performed well. I got a minimum mean absolute error and root mean squared error.
+![Saudi Arabia](Images/deathrandom.png)
+![Saudi Arabia](Images/death.png)
+
+# Additional Analysis 
 
 ![Saudi Arabia](Images/Continent.png)
 
@@ -31,14 +38,9 @@ Testing allows infected people to know that they are infected. This can help the
 
 ![Saudi Arabia](Images/Mortality.png)
 
-![Saudi Arabia](Images/Trend.png)
-
 ![analysis](Images/ROW.png)
 
 ![Saudi Arabia](Images/deaths.png)
-
-
-
 
 **Approach:**
 Prioritize the testing using the Priority-based Automated Testing System
