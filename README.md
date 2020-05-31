@@ -45,9 +45,11 @@ Testing allows infected people to know that they are infected. This can help the
 **Approach:**
 Prioritize the testing using the Priority-based Automated Testing System
 Doing this let’s say we categorize the population into 3 categories as follows:
-Category 1 (Self-Quarantined)
+Category 1 (Self-Quarantined) - Still working on to find the data
 Category 2 (Test-Priority)
+![plot](Images/1plot.png)
 Category 3 (Healthcare services-Priority)
+![plot](Images/2plot.png)
 
 # Use Case # 2
 ![use case #2](Images/social.jpg)
