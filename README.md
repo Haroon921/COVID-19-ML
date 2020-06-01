@@ -46,8 +46,10 @@ Testing allows infected people to know that they are infected. This can help the
 Prioritize the testing using the Priority-based Automated Testing System
 Doing this let’s say we categorize the population into 3 categories as follows:
 Category 1 (Self-Quarantined) - Still working on to find the data
+
 Category 2 (Test-Priority)
 ![plot](Images/1plot.png)
+
 Category 3 (Healthcare services-Priority)
 ![plot](Images/2plot.png)
 
@@ -79,7 +81,7 @@ Here is a list of other data sources:
 7) HDX Novel Coronavirus (COVID-19) Cases Data
 
 # Prerequisite
-For this experiment, I will be using Azure Machine Learning services. The instruction to provision can be found [here](https://azure.microsoft.com/en-us/resources/videos/provisioning-ml-workspaces-from-portal/).
+For this experiment, I will be using Azure Machine Learning services from which I will use python notebook. The instruction to provision can be found [here](https://azure.microsoft.com/en-us/resources/videos/provisioning-ml-workspaces-from-portal/).
 
 
 
