@@ -52,7 +52,7 @@ Doing this let’s say we categorize the population into 3 categories as follows
 
 3) Healthcare services-Priority (WIP)
 
-# Use Case # 2 (WIP)
+# Use Case # 2 
 ![use case #2](Images/social.jpg)
 
 **Problem Statement:**
@@ -66,6 +66,33 @@ This method will help in flattening the curve which will delay the time until th
 
 **Approach:**
 The goal is to control the increasing infection with the virus. The light switch method applies certain intervention strategies (like social distancing) for a certain period of time and then stops applying them for another limited period of time. 
+
+Comparison between Saudi Arabia with other countries most affected by the outbreak. For some countries there are  strong correlation between number of confirmed case and median age. Also between confirmed case with population density. There are no strong correlation between Hospital Bed and cases.
+![use case](Images/saudicomparison.jpg)
+
+## This correlation matrix shows that Median Age has strong positive correlation with confirmed case, also for the population density.
+
+
+### Prediction using Polynomial Regression, SVM, Holt's Linear, and Prophet's.
+
+### Polynomial Regression
+If Linear Regression requires the relation between the dependent variable and the independent variable to be linear, than Polynomial regression is a form of linear models that can be used to fit non-linear data. It’s provides the best approximation of the relationship between the dependent and independent variable. Polynomial regression fits a nonlinear relationship between the value of x and the corresponding conditional mean of y, denoted E(y |x). To generate polynomial features we have to declare a polynomial degree. We can change the degree to get more accuracy on the prediction.
+
+
+### SVM
+Support Vector Machines (SVMs) in the first time was used in many classification problems. However, this method can be used in regression as well. This kind of regression models
+are known as Support Vector Regression Machines or just Support Vector Regression (SVR).
+
+Most important SVR parameter is Kernel type. It can be linear, polynomial or gaussian SVR. We have a non-linear condition so in the notebook we select polynomial kernel with degree of 6 and using gamma scale.
+
+### Holt's Linear
+Holt's Linear  is a Time Series Forecasting Model. Extended from simple exponential smoothing (solution to data with no clear trend or seasonality) to allow the forecasting of data with trends. Holt’s method involves a forecast equation and two smoothing equations (one for the level and one for the trend). It use weighted averages of past observations to forecast new values. Here, the idea is to give more importance to recent values in the series. Holt’s model works by explicitly provide the model with the smoothing parameter.
+
+
+### Facebook Prophet
+Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality. Calculation forecast per day by feeding actual data together with an estimated carrying capacity value.
+
+![use case](Images/outbreaksaudi.jpg)
 
 # Data
 There are many sources available, but, I will be using data from [Our world in Data which has the testing data](https://ourworldindata.org/coronavirus-testing) and [COVID-19 Data from John Hopkins](https://github.com/CSSEGISandData/COVID-19).
