@@ -64,8 +64,12 @@ Our hypothesis is that when we apply this method, the increase in the cases will
 **Impact:**
 This method will help in flattening the curve which will delay the time until the peaks. Therefore, it will buy time for health organizations to increase their resources
 
+![use case](Images/2plot.png)
+
 **Approach:**
 The goal is to control the increasing infection with the virus. The light switch method applies certain intervention strategies (like social distancing) for a certain period of time and then stops applying them for another limited period of time. 
+
+![use case](Images/1plot.png)
 
 Comparison between Saudi Arabia with other countries most affected by the outbreak. For some countries there are  strong correlation between number of confirmed case and median age. Also between confirmed case with population density. There are no strong correlation between Hospital Bed and cases.
 ![use case](Images/saudicomparison.jpg)
